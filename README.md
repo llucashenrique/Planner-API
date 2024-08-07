@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Planner APP API
 Backend of Planner, a aplication of gerenciamento travels.
 
@@ -47,3 +48,6 @@ O arquivo client.http possui as chamadas para os endpoint, caso voce tenha exten
  
  
  
+=======
+# Planner-API
+>>>>>>> origin/main
